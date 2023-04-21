@@ -19,7 +19,7 @@ requests==2.20.0
 rjsmin==1.0.12
 rq==1.0.0
 scipy==1.2.1
-sqlparse==0.2.4
+sqlparse==0.4.4
 django-sendfile==0.3.11
 dj-pagination==2.4.0
 python-logstash==0.4.6
